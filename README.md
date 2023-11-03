@@ -23,3 +23,5 @@ This 3D environment consists of three main elements: terrain, sky, and a lake. T
 
 These elements together create a 3D environment suitable for various purposes, such as video games, simulations, virtual reality experiences, or architectural visualization. The specific details and aesthetics of the terrain, sky, and lake will depend on the design and intention of the 3D environment.
 
+You can Access the Assets and usd file in the below link 
+[Drive Link](https://drive.google.com/drive/folders/1GInCrff_c3ZylkuSosQLr9F_hsCCVLPj?usp=drive_link)
